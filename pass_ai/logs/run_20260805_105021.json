@@ -1,0 +1,38 @@
+{
+    "created_at": "2026-08-05T10:50:21.613117",
+    "profile": {
+        "fullname": "đặng voi huỳnh",
+        "birthdate": "08101982",
+        "relative_name": "",
+        "relative_birth": "",
+        "child_name": "",
+        "child_birth": "",
+        "company": ""
+    },
+    "pipeline": {
+        "pipeline_id": "e8c749e2-744f-464f-9cd9-34a0d4391dcb",
+        "created_at": "2026-08-05T10:50:21.611389",
+        "steps": [
+            {
+                "id": 1,
+                "rule": "AI_SEED",
+                "params": {
+                    "num_return_sequences": 10
+                }
+            },
+            {
+                "id": 2,
+                "rule": "LEET",
+                "params": {
+                    "max_change": 2
+                }
+            }
+        ]
+    },
+    "statistics": {
+        "steps_executed": 2,
+        "generated_passwords": 13,
+        "total_after_filter": 13
+    },
+    "output_file": "output\\dặng_voi_huỳnh_20260805_105021.txt"
+}

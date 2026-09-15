@@ -1,0 +1,25 @@
+{
+    "created_at": "2026-08-07T16:31:12.450344",
+    "profile": {
+        "fullname": "đinh văn tuyến",
+        "birthdate": "06081980",
+        "relative_name": "",
+        "relative_birth": "",
+        "child_name": "",
+        "child_birth": "",
+        "company": "",
+        "hometown": ""
+    },
+    "pipeline": {
+        "steps": [
+            {
+                "rule": "VIETNAM_WIFI_MASKS",
+                "params": {}
+            }
+        ]
+    },
+    "statistics": {
+        "total_after_filter": 3202
+    },
+    "output_file": "output\\dinh_văn_tuyến_20260807_163112.txt"
+}

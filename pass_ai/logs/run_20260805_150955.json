@@ -1,0 +1,29 @@
+{
+    "created_at": "2026-08-05T15:09:55.635481",
+    "profile": {
+        "fullname": "đinh văn tuyến",
+        "birthdate": "06081980",
+        "relative_name": "lê mai linh",
+        "relative_birth": "11121985",
+        "child_name": "",
+        "child_birth": "",
+        "company": "",
+        "hometown": ""
+    },
+    "pipeline": {
+        "steps": [
+            {
+                "rule": "LÕI_CƠ_HỌC",
+                "params": {}
+            },
+            {
+                "rule": "CAMEL_CASE",
+                "params": {}
+            }
+        ]
+    },
+    "statistics": {
+        "total_after_filter": 13732
+    },
+    "output_file": "output\\dinh_văn_tuyến_20260805_150955.txt"
+}

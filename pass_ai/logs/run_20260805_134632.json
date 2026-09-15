@@ -1,0 +1,31 @@
+{
+    "created_at": "2026-08-05T13:46:32.225744",
+    "profile": {
+        "fullname": "đinh văn tuyến",
+        "birthdate": "08091982",
+        "relative_name": "",
+        "relative_birth": "",
+        "child_name": "",
+        "child_birth": "",
+        "company": "",
+        "hometown": ""
+    },
+    "pipeline": [
+        {
+            "rule": "AI_SEED",
+            "params": {
+                "num_return_sequences": 10
+            }
+        },
+        {
+            "rule": "LEET",
+            "params": {
+                "max_change": 2
+            }
+        }
+    ],
+    "statistics": {
+        "total_after_filter": 664
+    },
+    "output_file": "output\\dinh_văn_tuyến_20260805_134632.txt"
+}
